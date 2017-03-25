@@ -1,0 +1,57 @@
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+	font-family: arial;
+	font-size: 32;
+	color: red;
+}
+h3
+{
+	text-align: center;
+	font-family: arial;
+	font-size: 24;
+	color: black;
+}
+h5
+{
+	position: absolute;
+	top: 30%;
+	left: 35%;
+}
+button
+{
+    display: block;
+    width: 217px;
+    height: 40px;
+    background: url(../images/downloadbutton.png) no-repeat 0 0;
+    text-indent: -9999px;
+    outline: none;
+	padding: 0;
+	border: none;
+	position: absolute;
+	top: 45%;
+	left: 52%;
+
+}
+
+button:hover
+{
+    background: url(../images/downloadbutton.png) no-repeat 0 -40px;
+	outline: none;
+	padding: 0;
+	border: none;
+}
+
+footer
+{
+	text-align: center;
+	position: fixed;
+	bottom: 300px;
+	left: 580px;
+	
+}
